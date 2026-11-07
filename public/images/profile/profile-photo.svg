@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#202426"/>
+  <circle cx="400" cy="370" r="155" fill="#c4f56a" opacity=".9"/>
+  <path d="M140 900c20-220 140-315 260-315s240 95 260 315" fill="#151719" stroke="#c4f56a" stroke-width="8"/>
+  <circle cx="345" cy="350" r="14" fill="#151719"/><circle cx="455" cy="350" r="14" fill="#151719"/>
+  <path d="M335 440c42 30 88 30 130 0" fill="none" stroke="#151719" stroke-width="10" stroke-linecap="round"/>
+  <text x="400" y="965" fill="#f2f3ed" font-family="Arial,sans-serif" font-size="24" text-anchor="middle" letter-spacing="4">DEMO PROFILE ASSET</text>
+</svg>
